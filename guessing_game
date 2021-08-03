@@ -11,6 +11,7 @@ def start_game():
   playAgain = True #Initialises variable to be used later on
   randInt = -1 #Intialises the variable to be used later on so I don't get a unassigned variable error
   highscore = 999 #Initialises variable.
+  
   while playAgain == True: 
     #When the program starts, we want to:
     #------------------------------------
@@ -21,6 +22,7 @@ def start_game():
     print("#~~Number~~#")
     print("#~~~Game~~~#")
     print("############")
+    
     if highscore == 999:
       print("There is no highscore yet!")
     else:
