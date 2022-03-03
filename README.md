@@ -1,3 +1,6 @@
-# treehouse-project-1
- Number guessing game
-Hi! This is my first Treehouse project and whilst I thik I hit all the requirements on the head, I hope you can give me some pointers on anything that can be improved. I know the code isn't close to perfect so please let me know!
+# Number guessing game
+
+This game will randomly select a number from 1-10 and the user will have to guess that number chosen. 
+The attempts taken will be recorded and a scoreboard is shown. (The lower the score the better)
+
+On the second iteration of the game, if the random number chosen is the same number, the game will randomly choose another number.
